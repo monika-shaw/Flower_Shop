@@ -1,0 +1,59 @@
+*{
+	font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 50%;
+  }
+.text-white{
+	background: #DA4453;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	padding: 20px;
+	font-family: 'Dancing Script', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+	border-radius: 70px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 20px;
+	border: 2px dotted #ffffff;
+
+
+}
+.btn{
+	
+	padding: 20px;
+	font-family: 'Dancing Script', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+	color: #ffffff;
+	margin: 10px;
+	text-align: center;
+	background-color: #008000;
+}
+ .btn:hover{
+ 	padding: 20px;
+ 	background: #70e1f5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffd194, #70e1f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ 	border-radius: 50px;
+ 	color: black;
+ }
+ .text-body{
+ 	text-align: center;
+ 	margin-top: 40px;
+ }
+ 
+ 
